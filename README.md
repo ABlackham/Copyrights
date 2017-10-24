@@ -1,2 +1,8 @@
 # Copyright
-<p> Copyright is a valuable thing in today's society. It prevents ideas from being stolen and allows people to benefit from their own ideas. It influences more people to think and create more. If copyright was not effective, less people would be creating because many people who cannot think for themselves would steal and those who could would not create anything for fear of being stolen from. However, I believe that the copyright laws do not go far enough. They do not cover anything that isn't recorded, so it is easy to steal something that hasn't been officially made yet, such as one person could steal an idea from someone who was talking about it but hasn't quite made the invention yet. <p>
+<div class="topnav" id="myTopnav">
+<a href="home.html>Home</a>
+<a href="open.html">Open Source</a>
+<a href="cc.html">Creative Commons</a>
+<a href="about.html">DMCA</a>
+</div>
+         <p> Copyright is a valuable thing in today's society. It prevents ideas from being stolen and allows people to benefit from their own ideas. It influences more people to think and create more. If copyright was not effective, less people would be creating because many people who cannot think for themselves would steal and those who could would not create anything for fear of being stolen from. However, I believe that the copyright laws do not go far enough. They do not cover anything that isn't recorded, so it is easy to steal something that hasn't been officially made yet, such as one person could steal an idea from someone who was talking about it but hasn't quite made the invention yet. <p>
